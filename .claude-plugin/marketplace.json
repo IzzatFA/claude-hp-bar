@@ -1,0 +1,5 @@
+{
+  "name": "claude-hp-bar",
+  "owner": { "name": "IzzatFA" },
+  "plugins": [{ "name": "claude-hp-bar", "source": "./" }]
+}

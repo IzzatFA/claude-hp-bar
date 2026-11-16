@@ -1,0 +1,6 @@
+{
+  "name": "claude-hp-bar",
+  "version": "0.1.0",
+  "description": "Status line showing this session's token usage: input, output, cache read, cache write and total.",
+  "types": "./types/index.d.ts"
+}
